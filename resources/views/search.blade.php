@@ -70,7 +70,6 @@
                             </tr>
                         @endforeach
                     </tbody>
-                
                 </table>
                 @else
                 @endif
