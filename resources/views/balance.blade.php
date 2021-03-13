@@ -33,7 +33,7 @@
             @endguest
         </ul>
         <div style="text-align:center;">
-            <h2>残高</h2>
+            <h2>残 高</h2>
             
             @foreach($payments as $payment1)
             <?php
