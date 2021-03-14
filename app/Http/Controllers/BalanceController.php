@@ -4,8 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Support\Facades\DB;
 use Illuminate\Http\Request;
-use App\models\Payment;
-use App\models\Withdrawal;
+use App\Models\Payment;
+use App\Models\Withdrawal;
 use Faker\Provider\ar_SA\Payment as Ar_SAPayment;
 
 class BalanceController extends Controller
